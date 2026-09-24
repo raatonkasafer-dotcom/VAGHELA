@@ -1,0 +1,11 @@
+{
+  "name": "Gomegle - Exact Age & Guardian Safety System",
+  "description": "Age-verified, guardian-consented safe matching platform with strict minor protection, jurisdiction policy controls, and real-time safety enforcement.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
